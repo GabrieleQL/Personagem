@@ -1,0 +1,17 @@
+base - superclasse missao 0 - nome, força, habilidade mental, poder de ataque, esquiva, resistencia, vida atual e vida máxima
+Acoes: atacar
+entrada(parametro): um personagem
+sem retorno
+comportamento desconhecido
+contra-atacar
+entrada:um personagem
+retorno: sem retorno
+comportamento: desconhecido
+aprimorar habilidade principal
+entrada: sem entrar 
+retorno: sem retorno
+comportamento: desconhecido
+regenerar vida
+entrada: sem entrada
+retorno sem retorno 
+comportamento desconhecido
