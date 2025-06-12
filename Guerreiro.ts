@@ -4,7 +4,7 @@ import { Priest } from "./Priest";
 
 export class Guerreiro extends Personagem{
     private _vidaAtual: number = 0;
-    private _vidaMax: number = 40000;
+    private _vidaMax: number = 10000;
     private _alvo: Priest
     constructor(nome:string,forca:number,habMental:number,poderAtq:number,
         esquiva:number,resistencia:number,vidaAtual:number,vidaMax:number,alvo:Priest)
